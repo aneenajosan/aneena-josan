@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at Christ College of Engineering<br>🌱 I’m currently learning different programming languages<br>⚡ I love to experiment and create new things
+🔭 I’m currently studying at Christ College of Engineering<br>🌱 I’m currently learning computer science engineering<br>⚡ I love to experiment and create new things
 
 
 ## 🌐 Socials:
